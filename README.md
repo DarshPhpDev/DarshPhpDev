@@ -17,6 +17,16 @@ I'm a **Senior Software Engineer** specializing in **full-stack web development*
 - 🏋️ **[Uplift CRM](http://crm.uplift16.com)** - Gym CRM with multi-tenancy (Laravel)
 - 📩 **[Mora-SMS](https://www.mora-sa.com)** - SMS marketing platform (Laravel, Vue.js)
 - 🛒 **[Smoo Alnakhel](https://smooalnakhel.com)** - E-commerce platform (Laravel, Vue.js)
+- 🎓 **[iSkola ERP](https://mnfean.com)** - School management system (Laravel)
+- 🚗 **[Alain Cars](https://app.elshotby-maritime.com)** - Car ads platform (Laravel)
+- 🎶 **[Musalim](https://musalim.online)** - Music teaching platform (Laravel, Vue.js)
+- 📑 **[El Rahma-HR](https://app.elrahma-hr.com/en)** - Recruitment system (Laravel)
+- 🏢 **[SCO Accounting System](https://app.sco-eg.com)** - Task management system (Laravel)
+- ✂ **[Hogozat](https://tictactoe-xo.vercel.app)** - Salon reservation system (Laravel)
+- 🍯 **[Asal Baflah](https://asalbaflah.com)** - Honey e-commerce platform (Laravel)
+- 🏬 **[Mosaweq](https://www.mora-sa.com)** - E-commerce system with marketer commissions (Laravel)
+- 🌊 **[Elshotby Maritime](https://app.elshotby-maritime.com)** - Sea ports management system (Laravel)
+- 🎮 **[Advanced TicTacToe Game](https://tictactoe-xo.vercel.app)** - Interactive game (React.js)
 
 ## 📢 Open Source Contributions
 - 💻 **[Laravel HTTP Client Package](https://github.com/DarshPhpDev/httpclient)**
