@@ -30,6 +30,7 @@ I'm a **Senior Software Engineer** specializing in **full-stack web development*
 
 ## 📢 Open Source Contributions
 - 💻 **[Laravel Api Response Formatter](https://github.com/DarshPhpDev/laravel-api-response-formatter)**
+- 💻 **[Laravel Settings](https://github.com/DarshPhpDev/laravel-settings)**
 - 💻 **[Laravel HTTP Client Package](https://github.com/DarshPhpDev/httpclient)**
 - 🔍 **[Laravel Regex Generator](https://github.com/DarshPhpDev/easyregex)**
 - 🔗 **[URL Shortener Backend (Node.js)](https://github.com/DarshPhpDev/url-shortner-backend-node)**
