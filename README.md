@@ -37,6 +37,14 @@ I'm a **Senior Software Engineer** specializing in **full-stack web development*
  </a>
 </div>
 
+## 📢 Open Source Contributions
+- 💻 **[Laravel Artisan Installer](https://github.com/DarshPhpDev/laravel-artisan-installer)**
+- 🚀 **[Laravel Api Response Formatter](https://github.com/DarshPhpDev/laravel-api-response-formatter)**
+- ⚙️ **[Laravel Settings](https://github.com/DarshPhpDev/laravel-settings)**
+- 💻 **[Laravel HTTP Client Package](https://github.com/DarshPhpDev/httpclient)**
+- 🔍 **[Laravel Regex Generator](https://github.com/DarshPhpDev/easyregex)**
+- 🔗 **[URL Shortener Backend (Node.js)](https://github.com/DarshPhpDev/url-shortner-backend-node)**
+
 ## 📌 Notable Projects
 - 🚀 **[Fatora](https://fatora.digital)** - Invoicing system for businesses in KSA (Laravel, Vue.js)
 - 🏋️ **[Uplift CRM](http://crm.uplift16.com)** - Gym CRM with multi-tenancy (Laravel)
@@ -53,12 +61,7 @@ I'm a **Senior Software Engineer** specializing in **full-stack web development*
 - 🌊 **[Elshotby Maritime](https://app.elshotby-maritime.com)** - Sea ports management system (Laravel)
 - 🎮 **[Advanced TicTacToe Game](https://tictactoe-xo.vercel.app)** - Interactive game (React.js)
 
-## 📢 Open Source Contributions
-- 🚀 **[Laravel Api Response Formatter](https://github.com/DarshPhpDev/laravel-api-response-formatter)**
-- ⚙️ **[Laravel Settings](https://github.com/DarshPhpDev/laravel-settings)**
-- 💻 **[Laravel HTTP Client Package](https://github.com/DarshPhpDev/httpclient)**
-- 🔍 **[Laravel Regex Generator](https://github.com/DarshPhpDev/easyregex)**
-- 🔗 **[URL Shortener Backend (Node.js)](https://github.com/DarshPhpDev/url-shortner-backend-node)**
+
 
 ⚡ **Fun Fact:** I love solving performance optimization challenges and mentoring developers!
 
