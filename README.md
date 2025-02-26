@@ -1,7 +1,9 @@
 # Hi there, I'm Mustafa Ahmed Mustafa! 👋
 
 ## 🚀 About Me
-I'm a **Senior Software Engineer** specializing in **full-stack web development** with over **6 years of experience**. Passionate about **scalable applications**, **clean code**, and **open-source contributions**. I enjoy building high-performance applications and mentoring developers.
+I'm a **Senior Software Engineer** specializing in **full-stack web development** with over **6 years of experience**. 
+Passionate about **scalable applications**, **clean code**, and **open-source contributions**. 
+I enjoy building high-performance applications and mentoring developers.
 
 ## 🔧 Tech Stack
 
